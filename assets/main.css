@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: azure;
+}
+
+header {
+    background-color: #f2f2f2;
+    color: black;
+}
+
+main {
+    background-color: antiquewhite;
+    color: blue;
+}
+
+footer {
+    background-color: #f2f2f2;
+    color: gray;
+    font-weight: 300;
+}
